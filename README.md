@@ -24,6 +24,18 @@ Tại thư mục chứa dự án mở terminal chạy lệnh `npm start` để c
 - routes: định tuyến trang web, phân quyền người dùng khi đăng nhập và quy định trang public/private.
 - pages: code các trang web tại đây
 
+
+## Sử dụng gì cho UI
+
+### Icons
+- [React icons](https://react-icons.github.io/react-icons/)
+
+### Bootstrap
+- [React bootstrap](https://react-bootstrap.netlify.app/docs/components/accordion)
+
+### Mui
+- [Mui] (https://mui.com/material-ui/getting-started/)
+
 ## Học gì
 
 ### Html, css

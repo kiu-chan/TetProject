@@ -34,7 +34,7 @@ Tại thư mục chứa dự án mở terminal chạy lệnh `npm start` để c
 - [React bootstrap](https://react-bootstrap.netlify.app/docs/components/accordion)
 
 ### Mui
-- [Mui] (https://mui.com/material-ui/getting-started/)
+- [Mui](https://mui.com/material-ui/getting-started/)
 
 ## Học gì
 
